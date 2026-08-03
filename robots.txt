@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kunalsawant17.github.io/Kunal-Sawant-/sitemap.xml
+Sitemap: https://kunalsawant17.github.io/kunal-sawant/sitemap.xml
